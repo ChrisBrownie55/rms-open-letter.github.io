@@ -634,6 +634,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Araman
 1. Chris Baiocchetti
 1. Chris Blume
+1. Chris Brown (@ChrisBrownie55)
 1. Chris Boyle (Debian Developer)
 1. Chris Burgess
 1. Chris `chutten` Hutten-Czapski (Mozilla)
